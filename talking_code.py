@@ -40,6 +40,20 @@ def Initialize_Text_to_Speach():
     Text_to_Speech.say(speech)
     Text_to_Speech.runAndWait()
     return Text_to_Speech
+
+    
+def initialize_text_to_speech():
+    Text_to_Speech = pyttsx3.init()
+    Text_to_Speech.setProperty('Rate',187)
+    voices = Text_to_Speech.getProperty('voices')
+    if Talking_Voice_Male_Gender:
+        Text_to_Speech.setProperty('voice', voices[0].id)    # Default Male voice registered as 'Dave'
+    else: 
+        Text_to_Speech.setProperty('voice', voices[1].id)    # Alternate Female voice registered as 'Tina'
+    speech = 'The text to speech engine is initialized using pythons pyttsx3 engine'
+    Text_to_Speech.say(speech)
+    Text_to_Speech.runAndWait()
+    return Text_to_Speech
     
 # Say Whatever the user wants 
 def say(speech):

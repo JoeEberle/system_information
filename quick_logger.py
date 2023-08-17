@@ -21,6 +21,10 @@ def set_speaking_steps(on_off_setting = False):
 def get_speaking_steps(): 
     return speaking_steps  
 
+def talk(speech): 
+    tc.say(speech) 
+    return  
+
 def set_start_time():
     start_time = time.time()
     return(start_time)
