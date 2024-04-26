@@ -1,3 +1,5 @@
+                                                                                                                        
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
 2024-04-25 21:28:53,134 - INFO - START system_information =============================================
 2024-04-25 21:28:53,135 - INFO - START system_information Start Time = 2024-04-25 21:28:53
 2024-04-25 21:28:53,135 - INFO - system_information Step 0 - Initialize the configuration file parser
@@ -9,3 +11,6 @@
 2024-04-25 21:28:58,451 - INFO - PERFORMANCE system_information Low process duration less than 3 minutes:5.32
 2024-04-25 21:28:58,451 - INFO - PERFORMANCE system_information Performance optimization is optional
 2024-04-25 21:28:58,451 - INFO - END system_information =============================================
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+                                                                                                                        
