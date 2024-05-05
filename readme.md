@@ -48,5 +48,5 @@ To get started with the **System Information** solution repository, follow these
 ![Brand](brand.png)
     
 ## Deliverables or Figures
- ![additional_image](joe_logo.png)  <br>![additional_image](solution_stacked_sign.png)  <br>![additional_image](system_information.png)  <br>
+ ![additional_image](joe_logo.png)  <br>![additional_image](system_information.png)  <br>
     
