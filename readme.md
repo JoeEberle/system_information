@@ -1,4 +1,6 @@
 
+![Image image_filename](solution_sign.png)
+
 # System Information - Provides general system information including CURRENT  memory / CPU usage
 Provides general system information including CURRENT  memory / CPU usage
 
@@ -9,8 +11,6 @@ Welcome to the solution **System Information** - an example for your projects
 Provides general system information including CURRENT  memory / CPU usage
 
 ![Image image_filename](sample.png)
-
-![Image image_filename](solution_sign.png)
 
 ## Solution Features
 - Easy to understand and use  
